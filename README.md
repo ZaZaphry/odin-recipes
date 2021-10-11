@@ -1,2 +1,1 @@
-Hello! This is where I'm supposed to say something about the project, but I'm not sure what yet...
-I will be making a website with recipes, I think!
+Hello! I'm currently working through The Odin Project, and the first project was to create a site that linked to three recipe pages. I used what I learned about images, links, directories, and lists to make this! I also used git commands through the terminal, though I might have gone overboard with how many commits I used.
